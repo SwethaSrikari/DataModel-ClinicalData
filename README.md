@@ -32,10 +32,10 @@ loss (TBWL)
 
 Data model using pandas library - install pandas
 ```
-python pandas_Datamodel.py --path_to_data PATH_TO_DATA --cohort 'week' --gender 'all' --min_age 18 --max_age 72
+python pandas_DataModel.py --path_to_data PATH_TO_DATA --cohort 'week' --gender 'all' --min_age 18 --max_age 72
 ```
 
 Data model using polars library - install polars
 ```
-python polars_Datamodel.py --path_to_data PATH_TO_DATA --cohort 'week' --gender 'all' --min_age 18 --max_age 72
+python polars_DataModel.py --path_to_data PATH_TO_DATA --cohort 'week' --gender 'all' --min_age 18 --max_age 72
 ```
