@@ -1,4 +1,4 @@
-# Analytics Data Model
+# Analytics Data Model for clinical data related to patient's weight
 
 The goal of this problem is to develop an analytics data model that one can use to quickly query and track a patient‘s weekly/monthly/clinic-wise weight loss. This model should also
 be useful for filtering the data by age, gender and clinic. These models are crucial to track the patient’s weight loss progress throughout the treatment to understand (a) how the treatment is working, and (b) to tailor an effective treatment plan for the patients.
