@@ -1,4 +1,4 @@
-# Analytics Data Model for clinical data related to patient's weight
+# Analytics Data Model for clinical data related to patients' weight
 
 The goal of this problem is to develop an analytics data model that one can use to quickly query and track a patient‘s weekly/monthly/clinic-wise weight loss. This model should also
 be useful for filtering the data by age, gender and clinic. These models are crucial to track the patient’s weight loss progress throughout the treatment to understand (a) how the treatment is working, and (b) to tailor an effective treatment plan for the patients.
@@ -27,6 +27,10 @@ the cohort (week/month/clinic).
 (week/month/clinic), weigh-in rate, patient’s starting weight, treatment starting
 weight, patient total body weight loss (TBWL), treatment total body weight
 loss (TBWL)
+
+**Pandas and Polars libraries for Data Manipulation**
+
+Comparing the execution times of pandas and polars libraries for different data manipulation tasks.
 
 **To run the code on terminal**
 
